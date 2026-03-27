@@ -2,7 +2,7 @@
 
 # Honey Sharma
 
-**Senior Software Engineer · Infoedge Ltd · Noida, India**
+**Lead Engineer · Infoedge Ltd · Noida, India**
 
 _Building systems where thoughtful architecture meets product engineering_
 
