@@ -66,7 +66,7 @@ A multi-tenant SaaS platform covering the complete hiring lifecycle: job opening
 |---|---|
 | Backend repo | talentsyncAPI - Currently private |
 | Frontend repo | talentsync - - Currently private |
-| Live | [app.talentsync.io](https://talentsync.honeyhimself.com) |
+| Live | [talentsync.honeyhimself.com](https://talentsync.honeyhimself.com) |
 
 ---
 
@@ -87,7 +87,7 @@ Paste a `git diff`, get structured review feedback from 4 specialized AI agents 
 | | |
 |---|---|
 | Repo | [webgpu-llm](https://github.com/honeycoder96/clientside-codereviewer) |
-| Live | [review.honeyhimself.com](https://webllm.honeyhimself.com) |
+| Live | [webllm.honeyhimself.com](https://webllm.honeyhimself.com) |
 
 ---
 
